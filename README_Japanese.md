@@ -23,6 +23,11 @@
 
 utilsディレクトリの下に、可視化用のサンプルスクリプト（Blender用）があります。詳しくは[こちら](utils/blender/README.md)をご覧ください。
 
+# Download
+データのダウンロードはGitHubのDownload zipか下記のリンクよりダウンロードができます.
+
+https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset/archive/refs/heads/master.zip
+
 ## Data Collection
 各データセットは、バンダイナムコ内のモーションキャプチャスタジオで収集された3人のプロのモーションアクターの動きに基づいています。ノイズ除去、プロポーションの整形、クリッピングなどの後処理を適用しました。データはBVH形式で提供されます。
 
