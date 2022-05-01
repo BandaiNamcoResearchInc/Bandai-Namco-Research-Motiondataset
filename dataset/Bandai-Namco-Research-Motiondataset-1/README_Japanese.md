@@ -3,7 +3,7 @@ Bandai-Namco-Research-Motiondataset-2は株式会社バンダイナムコ研究�
 Bandai-Namco-Research-Motiondataset-1と比較すると、内容も多様で、スタイルごとの表現も多様ですがフレーム総数が少ないデータになります。
 
 ## Dataset
-'data.zip'にBVH形式のモーションとJSON形式の注釈が含まれています。'videos.zip'にはモーションをMP4形式で可視化した動画が入っています。注釈にはコンテンツのIDが含まれており、ファイル名内のモーションのスタイルと対応するラベルは、'cfg/'ディレクトリ内に'content_label.txt'および'style_label.txt'に記載があります。
+'data.zip'にBVH形式のモーションとJSON形式の注釈が含まれています。注釈にはコンテンツのIDが含まれており、ファイル名内のモーションのスタイルと対応するラベルは、'cfg/'ディレクトリ内に'content_label.txt'および'style_label.txt'に記載があります。
 
 次のような命名規則で名前が付けられています:`dataset-1_{MOTION}_{STYLE}_{ID}`  
 例：`dataset-1_raise-up-both-hands_active`

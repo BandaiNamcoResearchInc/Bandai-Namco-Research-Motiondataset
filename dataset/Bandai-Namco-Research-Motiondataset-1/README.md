@@ -5,7 +5,7 @@ Find [here](README_Japanese.md) for a READEME in Japanese.
 Bandai-Namco-Research-Motiondataset-1 is collected by Bandai Namco Research Inc. Compared with Bandai-Namco-Research-Motiondataset-2, this dataset contains fewer data, but has a wide variety of contents, as well as expression variety per style.
 
 ## Dataset
-The dataset contains motion in BVH format with annotations in JSON format within `data.zip`. The motion is visualized in MP4 format in `videos.zip`. The annotations contain the ID of the content, and the style of the motion within the filename and corresponding labels can be found in `content_label.txt` and `style_label.txt` under the `cfg/` directory.
+The dataset contains motion in BVH format with annotations in JSON format within `data.zip`.  The annotations contain the ID of the content, and the style of the motion within the filename and corresponding labels can be found in `content_label.txt` and `style_label.txt` under the `cfg/` directory.
 
 The data is named in correspondence to the following: `dataset-1_{MOTION}_{STYLE}_{ID}`  
 For instance: `dataset-1_raise-up-both-hands_active`
