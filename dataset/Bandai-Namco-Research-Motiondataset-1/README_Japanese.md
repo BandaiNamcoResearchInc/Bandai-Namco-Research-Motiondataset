@@ -1,6 +1,6 @@
 # Bandai-Namco-Research-Motiondataset-1
-Bandai-Namco-Research-Motiondataset-2は株式会社バンダイナムコ研究所によって収集されたモーションキャプチャのデータです。
-Bandai-Namco-Research-Motiondataset-1と比較すると、内容も多様で、スタイルごとの表現も多様ですがフレーム総数が少ないデータになります。
+Bandai-Namco-Research-Motiondataset-1は株式会社バンダイナムコ研究所によって収集されたモーションキャプチャのデータです。
+Bandai-Namco-Research-Motiondataset-2と比較すると、内容も多様で、スタイルごとの表現も多様ですがフレーム総数が少ないデータになります。
 
 ## Dataset
 'data.zip'にBVH形式のモーションとJSON形式の注釈が含まれています。注釈にはコンテンツのIDが含まれており、ファイル名内のモーションのスタイルと対応するラベルは、'cfg/'ディレクトリ内に'content_label.txt'および'style_label.txt'に記載があります。
