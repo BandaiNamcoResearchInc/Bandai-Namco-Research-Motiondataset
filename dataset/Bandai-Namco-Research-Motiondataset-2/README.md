@@ -13,7 +13,7 @@ For instance: `dataset-2_raise-up-both-hands_active`
 ### Basic Info
 |Basic Info||
 |--|--|
-|Number of Data|175|
+|Number of Data|2,902|
 |Number of frame|384,931|
 |Number of styles|7|
 |Number of contents|10|
