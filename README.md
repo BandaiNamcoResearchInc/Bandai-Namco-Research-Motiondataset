@@ -1,7 +1,7 @@
 # Bandai-Namco-Research-Motiondataset
 This repository provides motion datasets collected by Bandai Namco Research Inc. 
 
-Find [here](README_Japanese.md) for a READEME in Japanese.
+Find [here](README_Japanese.md) for a README in Japanese.
 
 There is a long-standing interest in making diverse stylized motions for games and movies that pursue realistic and expressive character animation; however, creating new movements that include all the various styles of expression using existing methods is difficult. Due to this, Motion Style Transfer (MST) has been drawing attention recently, which aims to convert the motion in a clip with a given content into another motion in a different style, while keeping the same content. A motion is composed of a content and style, where content is the base of the motion and style comprises of the attributes such as mood and personality of the character tied to the motion.
 
