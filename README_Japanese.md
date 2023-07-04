@@ -33,12 +33,35 @@ https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset/ar
 
 <img src='src/images/motion_capture_studio.png' width="50%"/>
 
+## Citation Information
+
+このデータセットの技術的詳細は下記の論文に記載されています。
+
+データセットを利用した際などの引用は下記の論文の引用を推奨します。
+
+[Motion Capture Dataset for Practical Use of AI-based Motion Editing and Stylization](https://arxiv.org/abs/2306.08861)
+
+```
+@misc{kobayashi2023motion,
+      title={Motion Capture Dataset for Practical Use of AI-based Motion Editing and Stylization}, 
+      author={Makito Kobayashi and Chen-Chieh Liao and Keito Inoue and Sentaro Yojima and Masafumi Takahashi},
+      year={2023},
+      eprint={2306.08861},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 ## License
 データセットとスクリプトは、次のlincenseで利用できます。
 
-- Bandai-Namco-Research-Motiondataset-1: [CC BY-NC-ND 4.0](dataset/Bandai-Namco-Research-Motiondataset-1/LICENSE)
-- Bandai-Namco-Research-Motiondataset-2: [CC BY-NC-ND 4.0](dataset/Bandai-Namco-Research-Motiondataset-2/LICENSE)
+- Bandai-Namco-Research-Motiondataset-1: [CC BY-NC 4.0](dataset/Bandai-Namco-Research-Motiondataset-1/LICENSE)
+- Bandai-Namco-Research-Motiondataset-2: [CC BY-NC 4.0](dataset/Bandai-Namco-Research-Motiondataset-2/LICENSE)
 - Motion visualization on Blender: [MIT](utils/blender/LICENSE)
+
+もしもこのデータセットの商用利用について希望があれば下記までお問い合わせください。
+
+https://acesinc.co.jp/projects/project-1760
 
 ## Related works
 前述のように、MSTの分野は最近注目を集めています。このトピックに興味がある場合は、以下の調査とデータセットの網羅的ではないリストを参照してください。これらの論文で紹介されたモデルは、高レベルのパフォーマンスを示しており、MSTに関連するデータセットはさまざまなモーションデータを提供します。

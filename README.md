@@ -30,10 +30,29 @@ Each dataset is based on the motion of three professional actors, collected at t
 
 <img src='src/images/motion_capture_studio.png' width="50%"/>
 
+## Citation Information
+
+The technical details regarding this dataset are described in the following paper.
+
+If you use this dataset, please consider citing the paper:
+
+[Motion Capture Dataset for Practical Use of AI-based Motion Editing and Stylization](https://arxiv.org/abs/2306.08861)
+
+```
+@misc{kobayashi2023motion,
+      title={Motion Capture Dataset for Practical Use of AI-based Motion Editing and Stylization}, 
+      author={Makito Kobayashi and Chen-Chieh Liao and Keito Inoue and Sentaro Yojima and Masafumi Takahashi},
+      year={2023},
+      eprint={2306.08861},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 ## License
 The datasets and scripts are available in the following lincenses.
-- Bandai-Namco-Research-Motiondataset-1: [CC BY-NC-ND 4.0](dataset/Bandai-Namco-Research-Motiondataset-1/LICENSE)
-- Bandai-Namco-Research-Motiondataset-2: [CC BY-NC-ND 4.0](dataset/Bandai-Namco-Research-Motiondataset-2/LICENSE)
+- Bandai-Namco-Research-Motiondataset-1: [CC BY-NC 4.0](dataset/Bandai-Namco-Research-Motiondataset-1/LICENSE)
+- Bandai-Namco-Research-Motiondataset-2: [CC BY-NC 4.0](dataset/Bandai-Namco-Research-Motiondataset-2/LICENSE)
 - Motion visualization on Blender: [MIT](utils/blender/LICENSE)
 
 ## Related works
